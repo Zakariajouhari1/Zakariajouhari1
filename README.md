@@ -2,7 +2,7 @@
 
 # 🚀 Zakaria Jouhari
 
-**Embedded Systems Engineer | Control Systems | Autonomous Vehicles**
+**Embedded Systems Engineer | Control Systems Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-jouhari-77aa971a8)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jouhari.zakaria@uit.ac.ma)
@@ -13,9 +13,9 @@
 
 ## 👨‍💻 About Me
 
-5th-year Embedded Systems Engineering student at ENSA Kenitra, specializing in **Model Predictive Control**, **Deep Reinforcement Learning**, and **Autonomous Systems**.
+5th-year Embedded Systems Engineering student at ENSA Kenitra with a passion for **control systems** and **real-time embedded programming**.
 
-Currently working on vehicle platooning algorithms and real-time embedded applications.
+I love building things with **C/C++** and have hands-on experience in Model Predictive Control, autonomous systems, and hardware-software integration.
 
 ## 🛠️ Tech Stack
 
@@ -27,7 +27,7 @@ Currently working on vehicle platooning algorithms and real-time embedded applic
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Specialties:** MPC • PID Control • Kalman Filtering • Computer Vision • SLAM • FPGA • IoT
+**Core Skills:** Control Systems (MPC, PID, Kalman) • Embedded C/C++ • Real-Time Systems • Robotics • PCB Design
 
 ## 🚀 Featured Projects
 
