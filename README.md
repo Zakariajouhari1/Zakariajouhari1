@@ -42,8 +42,3 @@ I love building things with **C/C++** and have hands-on experience in Model Pred
 
 <div align="center">
 
-**⚡ Building intelligent systems, one algorithm at a time**
-
-![Visitor Count](https://profile-counter.glitch.me/Zakariajouhari1/count.svg)
-
-</div>
