@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Zakaria Jouhari
+Zakaria Jouhari
 
-**Embedded Systems Engineer | Control Systems Enthusiast**
+Embedded Systems Engineer | Control Systems | Autonomous Vehicles
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-jouhari-77aa971a8)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jouhari.zakaria@uit.ac.ma)
@@ -38,23 +38,7 @@ I love building things with **C/C++** and have hands-on experience in Model Pred
 | 🎯 **Active Stabilization** | ESP32 fin stabilization with Kalman + PID | ESP32, MPU6050, Firebase |
 | 🚗 **Vehicle Platooning** | MPC & DDPG for adaptive convoy control | Python, SUMO, ns-3 |
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zakariajouhari1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariajouhari1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-</div>
-
-## 🏆 Highlights
-
-🥈 2nd Place National - Plasma Vortex Sumobot Competition 2024  
-📝 Co-Author - Research paper on Communication-Aware DDPG (upcoming 2026)  
-🤝 Team Lead - 8-member autonomous robotics team  
-
----
 
 <div align="center">
 
